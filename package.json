@@ -1,0 +1,24 @@
+
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Note Taker Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/miniature-eureka.git"
+  },
+  "keywords": ["express", "note-taker", "heroku"],
+  "license": "ISC"
+}
